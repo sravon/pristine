@@ -1,14 +1,12 @@
-import { Annotation } from "@/components/annotation";
+import { Header } from "@/components/about-us/header";
+import Services from "@/components/about-us/services";
 import Contact from "@/components/contact";
 import Footer from "@/components/layout/footer";
-import { Header } from "@/components/header";
-import Services from "@/components/services";
 
 export default function Home() {
   return (
     <div>
       <Header/>
-      <Annotation/>
       <Services/>
       <Contact/>
       <Footer/>

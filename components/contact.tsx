@@ -4,18 +4,18 @@ const Contact = () => {
   return (
         <section id="contact">
 			{/* <!-- Contact --> */}
-			<div className="container mx-auto min-h-[700px] flex flex-col justify-center">
-				<h3 className="text-3xl font-extrabold pb-3 text-white">Send a request</h3>
-				<div className="grid lg:grid-cols-2 gap-6 ">
-					<form className="space-y-6">
-						<div className="flex space-x-6">
+			<div className="container max-w-7xl mx-auto min-h-[600px] flex flex-col justify-center pt-32">
+				<h3 className="text-3xl font-extrabold pb-3 text-white px-6 mx-auto lg:mx-0">Send a request</h3>
+				<div className="grid lg:grid-cols-2 gap-6 p-6">
+					<form className="space-y-6 max-w-lg mx-auto">
+						<div className="flex flex-col space-y-3 sm:flex-row sm:space-y-0 sm:space-x-6">
 							<div className=" flex flex-col space-y-2">
-								<label className="font-bold text-[#cccc] mr-8" htmlFor="">Name</label>
-								<input className="w-[300px] border-2 border-[#344283] p-3 outline-none bg-[#000727] text-white focus:border-blue-400" type="text" name="name" value="" />
+								<label className="font-bold text-[#cccc]" htmlFor="">Name</label>
+								<input className=" border-2 border-[#344283] p-3 outline-none bg-[#000727] text-white focus:border-blue-400 " type="text" name="name" value="" />
 							</div>
 							<div className=" flex flex-col space-y-2">
-								<label className="font-bold text-[#cccc] mr-8" htmlFor="">Email</label>
-								<input className="w-[300px] border-2 border-[#344283] p-3 outline-none bg-[#000727] text-white focus:border-blue-400" type="text" name="name" value="" />
+								<label className="font-bold text-[#cccc]" htmlFor="">Email</label>
+								<input className=" border-2 border-[#344283] p-3 outline-none bg-[#000727] text-white focus:border-blue-400 " type="text" name="name" value="" />
 							</div>
 						</div>
 						<div className="flex flex-col space-y-2">
@@ -27,7 +27,7 @@ const Contact = () => {
 						</div>
 					</form>
 
-					<div className="space-y-3 border bg-[#000727] p-5">
+					<div className="space-y-3 border bg-[#000727] p-5 max-w-lg mx-auto">
 						<div className="space-y-3">
 							<h2 className="text-white text-xl">Contact Info:</h2>
 							<div className="flex items-center space-x-2 text-white">

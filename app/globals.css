@@ -10,23 +10,52 @@
   background-size: cover;
 }
 
+#annotationTestingBg {
+  background-image: url('../images/desktop/annotation-bg.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#annotationDataBg {
+  background-image: url('../images/desktop/anno.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 #annotationService {
   background-image: url('../images/desktop/image-annotation.png');
   background-repeat: no-repeat;
   background-size: cover;
 }
 
-#hero {
-  background-image: url('../images/desktop/hero.png');
+#dataCollection {
+  background-image: url('../images/desktop/data-collection-bg.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#footer {
+  background-image: url('../images/footer.png');
   background-repeat: round;
   background-size: contain;
 }
 
-@media (max-width: 576px) {
-  #hero {
-      background-image: url('../images/mobile/image-hero.jpg');
-      background-repeat: center;
-  }
+#aboutHero {
+  background-image: url('../images/desktop/about_hero.png');
+  background-repeat: round;
+  background-size: contain;
+}
+
+#testingHero {
+  background-image: url('../images/desktop/testing-hero.png');
+  background-repeat: round;
+  background-size: contain;
+}
+
+#hero {
+  background-image: url('../images/desktop/hero.png');
+  background-repeat: round;
+  background-size: contain;
 }
 
 /* Hamburger Menu */

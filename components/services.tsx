@@ -4,7 +4,7 @@ const Services = () => {
     return (
         <div id="services" className="space-y-12 mb-6">
             <img src="rectangle.png" alt="" />
-            <div className="container mx-auto space-y-28">
+            <div className="container mx-auto space-y-28 px-6">
                 {/* <!--Section 1--> */}
                 <div className="flex flex-row justify-between items-center">
                     {/* <!-- Content --> */}
@@ -104,7 +104,7 @@ const Services = () => {
                     {/* <!-- Image --> */}
                     <div className="bg-gradient-to-r from-[#E977AE] via-[#E977AE] to-[#000930] w-[600px] h-auto">
                         <div className="ml-8 mb-8">
-                            <img src="internet.png" className="object-cover " />
+                            <img src="rectangle-4.png" className="object-cover " />
                         </div>
                     </div>
                     {/* <!-- Content --> */}
@@ -131,7 +131,7 @@ const Services = () => {
                     </div>
                 </div>
             </div>
-            <h2 className="max-w-5xl mx-auto font-sans text-3xl text-white font-bold md:text-5xl">
+            <h2 className="max-w-5xl mx-auto font-sans text-3xl text-white font-bold px-6 md:text-5xl">
                 <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#9FB9FC] to-[#FFBC6C]">
                     We excel by dedicating ourselves to one thing and doing it to perfection.
                 </span>

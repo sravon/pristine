@@ -15,7 +15,7 @@ const Nav = () => {
     return (
         <div className="container max-w-7xl mx-auto px-6 py-12">
             {/* <!-- Nav/logo --> */}
-            <nav className="flex items-center justify-between font-bold text-white">
+            <nav className="flex items-center justify-between font-bold text-gray-400">
               {/* <!-- logo --> */}
               <Link href="/">
                 <img src="logo.svg" alt=""/>
@@ -23,37 +23,37 @@ const Nav = () => {
               {/* <!-- Menu --> */}
               <div className="hidden h-10 font-alata lg:flex lg:space-x-4 items-center">
                 <div className="group">
-                  <Link href="/">Home</Link>
+                  <Link href="/" className='hover:text-white'>Home</Link>
                   <div className="mx-2 group-hover:border-b 
                     group-hover:border-blue-50"></div>
                 </div>
                 <div className="group">
-                  <Link href="/about-us">About Us</Link>
+                  <Link href="/about-us" className='hover:text-white'>About Us</Link>
                   <div className="mx-2 group-hover:border-b 
                     group-hover:border-blue-50"></div>
                 </div>
                 <div className="group">
-                  <Link href="/data-security">Data security</Link>
+                  <Link href="/data-security" className='hover:text-white'>Data security</Link>
                   <div className="mx-2 group-hover:border-b 
                     group-hover:border-blue-50"></div>
                 </div>
                 <div className="group">
-                  <Link href="/data-annotation">Data annotation</Link>
+                  <Link href="/data-annotation" className='hover:text-white'>Data annotation</Link>
                   <div className="mx-2 group-hover:border-b 
                     group-hover:border-blue-50"></div>
                 </div>
                 <div className="group">
-                  <Link href="/data-collection">Data collection</Link>
+                  <Link href="/data-collection" className='hover:text-white'>Data collection</Link>
                   <div className="mx-2 group-hover:border-b 
                     group-hover:border-blue-50"></div>
                 </div>
                 <div className="group">
-                  <Link href="/testing">Testing</Link>
+                  <Link href="/testing" className='hover:text-white'>Testing</Link>
                   <div className="mx-2 group-hover:border-b 
                     group-hover:border-blue-50"></div>
                 </div>
                 <div className="group">
-                  <Link href="/global-sourcing">Global sourcing</Link>
+                  <Link href="/global-sourcing" className='hover:text-white'>Global sourcing</Link>
                   <div className="mx-2 group-hover:border-b 
                     group-hover:border-blue-50"></div>
                 </div>

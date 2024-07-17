@@ -5,7 +5,7 @@ export const Annotation = () => {
     return (
         <section id="annotation">
             <div className="container max-w-7xl mx-auto px-6 py-12 space-y-4">
-                <h2 className="max-w-5xl mx-auto font-sans text-xl text-white font-bold md:text-2xl pb-12">Delivering top-tier data annotation, testing, and collection services with unparalleled precision and expertise.</h2>
+                <h2 className="max-w-2xl mx-auto font-sans text-xl text-center text-white font-bold md:text-2xl pb-12">Delivering top-tier data annotation, testing, and collection<br/> services with unparalleled precision and expertise.</h2>
                 <div id="annotationService">
                     <div className="grid md:grid-cols-3 gap-4 text-white">
                         {/* <!-- Item 1 --> */}

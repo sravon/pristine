@@ -4,7 +4,7 @@ const Services = () => {
     return (
         <div id="services" className="space-y-12 mb-6">
             <img src="rectangle.png" alt="" />
-            <div className="container mx-auto space-y-28 px-6">
+            <div className="container max-w-7xl mx-auto space-y-28 px-6">
                 {/* <!--Section 1--> */}
                 <div className="flex flex-row justify-between items-center">
                     {/* <!-- Content --> */}
@@ -12,7 +12,7 @@ const Services = () => {
                         <h1 className="max-w-xs text-3xl font-semibold text-center text-gray-50 lg:text-4xl lg:text-left">
                             Comprehensive Data Annotation Services
                         </h1>
-                        <p className="max-w-2xl mx-auto text-center text-gray-400 lg:text-md lg:text-left
+                        <p className="max-w-xl mx-auto text-center text-white lg:text-lg lg:text-left
                         lg:mt-0 lg:mx-0">
                         We offer precise and high-quality data annotation across various 
                         domains, including image, text, speech, video, and survey annotations.
@@ -25,7 +25,7 @@ const Services = () => {
                         <div className="pt-3 flex items-center justify-center w-full space-x-4
                         lg:justify-start">
                             <a href="#" className="p-4 text-sm font-semibold text-white bg-softBlue
-                            rounded shadow-md border-2 border-softBlue md:text-base hover:bg-white hover:text-softBlue">
+                            rounded shadow-md border-2 border-softBlue md:text-base hover:bg-white hover:text-gray-700">
                             Learn more</a>
                         </div>
                     </div>
@@ -50,7 +50,7 @@ const Services = () => {
                             <h1 className="max-w-xs text-3xl font-semibold text-center text-gray-50 lg:text-4xl lg:text-left">
                                 Top-Notch Audio and Video Data Collection
                             </h1>
-                            <p className="max-w-xl mx-auto text-center text-gray-400 lg:text-xl lg:text-left
+                            <p className="max-w-xl mx-auto text-center text-white lg:text-lg lg:text-left
                             lg:mt-0 lg:mx-0">
                             Our company excels in collecting top-notch audio and video data,
                             crucial for training advanced AI systems. We gather diverse speech patterns, 
@@ -62,7 +62,7 @@ const Services = () => {
                             <div className="pt-3 flex items-center justify-center w-full space-x-4
                             lg:justify-start">
                                 <a href="#" className="p-4 text-sm font-semibold text-white bg-softBlue
-                                rounded shadow-md border-2 border-softBlue md:text-base hover:bg-white hover:text-softBlue">
+                                rounded shadow-md border-2 border-softBlue md:text-base hover:bg-white hover:text-gray-700">
                                 Learn more</a>
                             </div>
                         </div>
@@ -75,7 +75,7 @@ const Services = () => {
                         <h1 className="max-w-xs text-3xl font-semibold text-center text-gray-50 lg:text-4xl lg:text-left">
                             Comprehensive Testing Services
                         </h1>
-                        <p className="max-w-2xl mx-auto text-center text-gray-400 lg:text-2xl lg:text-left
+                        <p className="max-w-2xl mx-auto text-center text-white lg:text-lg lg:text-left
                         lg:mt-0 lg:mx-0">
                         Our company provides comprehensive testing services for data, machines, 
                         and AI models. We ensure data integrity, optimize hardware and software
@@ -88,7 +88,7 @@ const Services = () => {
                         <div className="pt-3 flex items-center justify-center w-full space-x-4
                         lg:justify-start">
                             <a href="#" className="p-4 text-sm font-semibold text-white bg-softBlue
-                            rounded shadow-md border-2 border-softBlue md:text-base hover:bg-white hover:text-softBlue">
+                            rounded shadow-md border-2 border-softBlue md:text-base hover:bg-white hover:text-gray-700">
                             Learn more</a>
                         </div>
                     </div>
@@ -113,7 +113,7 @@ const Services = () => {
                             <h1 className="max-w-xs text-3xl font-semibold text-center text-gray-50 lg:text-4xl lg:text-left">
                             Exceptional global skilled professionals
                             </h1>
-                            <p className="max-w-xl mx-auto text-center text-gray-400 lg:text-xl lg:text-left
+                            <p className="max-w-xl mx-auto text-center text-white lg:text-lg lg:text-left
                             lg:mt-0 lg:mx-0">
                             Our company provides exceptional services through a global network of highly 
                         skilled professionals. We ensure top-quality results in data annotation, collection,
@@ -124,7 +124,7 @@ const Services = () => {
                             <div className="pt-3 flex items-center justify-center w-full space-x-4
                             lg:justify-start">
                                 <a href="#" className="p-4 text-sm font-semibold text-white bg-softBlue
-                                rounded shadow-md border-2 border-softBlue md:text-base hover:bg-white hover:text-softBlue">
+                                rounded shadow-md border-2 border-softBlue md:text-base hover:bg-white hover:text-gray-700">
                                 Learn more</a>
                             </div>
                         </div>

@@ -7,7 +7,7 @@ const Item = ({title,description,imageUrl}:{title:string,description:string,imag
                 <img src={imageUrl} />
             </div>
             <h3 className="text-xl font-bold">{title}</h3>
-            <p className="md:max-w-xs text-center pb-6">
+            <p className="md:max-w-xs text-center pb-6 text-white">
                 {description}
             </p>
         </div>

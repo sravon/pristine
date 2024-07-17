@@ -8,7 +8,9 @@ export const Header = () => {
           <div className="container max-w-7xl mx-auto flex justify-center items-center px-6 pb-12 sm:min-h-[250px] md:min-h-[300px] lg:min-h-[400px]">
             <div className="max-w-4xl space-y-3">
               <h1 className="text-3xl font-semibold text-center text-gray-50">
-              About Pristine
+              About <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#9FB9FC] to-[#FFBC6C]">
+                     Pristine: 
+                    </span>
               </h1>
               <p className="mx-auto text-center text-gray-400">
               Pristine is dedicated to setting the standard in data annotation, collection, 

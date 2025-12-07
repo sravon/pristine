@@ -14,7 +14,7 @@ const Services = () => {
                         </h1>
                         <p className="max-w-xl mx-auto text-center text-white lg:text-lg lg:text-left
                         lg:mt-0 lg:mx-0">
-                        n a variety of disciplines, such as picture, text, speech, video, and survey annotations, we provide accurate and superior data annotation.Accurate bounding boxes, semantic and instance segmentation, keypoint marking, NER, sentiment analysis, transcriptions, speaker labeling, object tracking, and more are all guaranteed by our knowledgeable staff. Join forces with us for dependable and effective data solutions.
+                        In a variety of disciplines, such as picture, text, speech, video, and survey annotations, we provide accurate and superior data annotation.Accurate bounding boxes, semantic and instance segmentation, keypoint marking, NER, sentiment analysis, transcriptions, speaker labeling, object tracking, and more are all guaranteed by our knowledgeable staff. Join forces with us for dependable and effective data solutions.
                         </p>
                         {/* <!-- Button contaner --> */}
                         <div className="pt-3 flex items-center justify-center w-full space-x-4

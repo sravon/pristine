@@ -13,10 +13,7 @@ export const Header = () => {
                     </span>
               </h1>
               <p className="mx-auto text-center text-gray-400">
-              Pristine is dedicated to setting the standard in data annotation, collection, 
-              testing, and survey methodologies, driving the development of artificial intelligence 
-              with precision and integrity. We specialize in curating high-quality, meticulously annotated datasets that are tailored to the specific needs of our partners across various sectors. By harnessing advanced tools and techniques, Pristine ensures that data is not only comprehensive 
-              but also accurate and relevant, empowering AI technologies to operate at their best.
+              Pristine is committed to establishing the benchmark in data annotation, collection, testing, and survey methods, advancing artificial intelligence development with accuracy and integrity. We focus on creating high-quality, carefully annotated datasets customized to meet the unique requirements of our partners in different industries. Utilizing cutting-edge tools and techniques, Pristine guarantees that the data is thorough, precise, and pertinent, enabling AI technologies to perform optimally.
               </p>
             </div>
           </div>

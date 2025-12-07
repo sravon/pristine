@@ -14,12 +14,7 @@ const Services = () => {
                         </h1>
                         <p className="max-w-xl mx-auto text-center text-white lg:text-lg lg:text-left
                         lg:mt-0 lg:mx-0">
-                        We offer precise and high-quality data annotation across various 
-                        domains, including image, text, speech, video, and survey annotations.
-                        Our expert team ensures accurate bounding boxes, semantic and instance
-                        segmentation, keypoint marking, NER, sentiment analysis, transcriptions
-                        , speaker labeling, object tracking, and more. Partner with us for reliable 
-                        and efficient data solutions.
+                        n a variety of disciplines, such as picture, text, speech, video, and survey annotations, we provide accurate and superior data annotation.Accurate bounding boxes, semantic and instance segmentation, keypoint marking, NER, sentiment analysis, transcriptions, speaker labeling, object tracking, and more are all guaranteed by our knowledgeable staff. Join forces with us for dependable and effective data solutions.
                         </p>
                         {/* <!-- Button contaner --> */}
                         <div className="pt-3 flex items-center justify-center w-full space-x-4
@@ -52,11 +47,7 @@ const Services = () => {
                             </h1>
                             <p className="max-w-xl mx-auto text-center text-white lg:text-lg lg:text-left
                             lg:mt-0 lg:mx-0">
-                            Our company excels in collecting top-notch audio and video data,
-                            crucial for training advanced AI systems. We gather diverse speech patterns, 
-                            environmental sounds, human activities, facial expressions, and object interactions.
-                            Our data boosts AI accuracy and inclusivity.
-                            Partner with us to drive the future of intelligent AI solutions.
+                            Our business is excellent at gathering high-quality audio and video data, which is essential for training cutting-edge AI systems. We record a variety of speech patterns, ambient noises, human activity, facial expressions, and interactions with objects.Our data improves the inclusivity and accuracy of AI. Join forces with us to advance smarter AI solutions in the future.
                             </p>
                             {/* <!-- Button contaner --> */}
                             <div className="pt-3 flex items-center justify-center w-full space-x-4
@@ -77,12 +68,7 @@ const Services = () => {
                         </h1>
                         <p className="max-w-2xl mx-auto text-center text-white lg:text-lg lg:text-left
                         lg:mt-0 lg:mx-0">
-                        Our company provides comprehensive testing services for data, machines, 
-                        and AI models. We ensure data integrity, optimize hardware and software
-                         performance, and validate AI models. Our services include data validation, 
-                         hardware stress testing, system compatibility, and model performance evaluation. 
-                         Partner with us to enhance the reliability 
-                        and efficiency of your systems and deliver a superior user experience.
+                        Our business offers thorough testing services for AI models, robots, and data. We validate AI models, optimize hardware and software performance, and guarantee data integrity. Data validation, hardware stress testing, system compatibility, and model performance evaluation are among the services we offer. Join forces with us to improve your systems' dependability and effectiveness while providing an exceptional user experience.
                         </p>
                         {/* <!-- Button contaner --> */}
                         <div className="pt-3 flex items-center justify-center w-full space-x-4
@@ -115,10 +101,7 @@ const Services = () => {
                             </h1>
                             <p className="max-w-xl mx-auto text-center text-white lg:text-lg lg:text-left
                             lg:mt-0 lg:mx-0">
-                            Our company provides exceptional services through a global network of highly 
-                        skilled professionals. We ensure top-quality results in data annotation, collection,
-                         and testing. Our experienced team meets diverse client needs with precision and efficiency. 
-                        Partner with us for world-class expertise and success.
+                            Our organization uses a worldwide network of highly qualified individuals to deliver outstanding services. We guarantee excellent outcomes in data collecting, testing, and annotation. Our skilled staff efficiently and precisely attends to a wide range of client needs. Join forces with us for success and top-notch knowledge.
                             </p>
                             {/* <!-- Button contaner --> */}
                             <div className="pt-3 flex items-center justify-center w-full space-x-4
@@ -133,7 +116,7 @@ const Services = () => {
             </div>
             <h2 className="max-w-5xl mx-auto font-sans text-3xl text-white font-bold px-6 md:text-5xl">
                 <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#9FB9FC] to-[#FFBC6C]">
-                    We excel by dedicating ourselves to one thing and doing it to perfection.
+                    When we focus on one thing and do it flawlessly, we succeed.
                 </span>
             </h2>
         </div>

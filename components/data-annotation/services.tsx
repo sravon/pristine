@@ -50,11 +50,9 @@ const Services = () => {
                 <div className="max-w-5xl space-y-3 flex flex-col items-center p-5">
                     <h3 className="font-sans font-extrabold text-xs md:text-lg text-center">
                         <span className='bg-clip-text text-transparent bg-gradient-to-r from-[#E9BA5F] to-[#B588FF]'>
-                        Through our comprehensive testing services, we help you uncover existing issues
-                         and provide recommendations for improvement. By identifying weaknesses
-                          and areas for enhancement, we assist you in refining your models and systems to 
-                          deliver a superior user experience. Partner with us to ensure your AI solutions are robust,
-                         reliable, and ready to meet the demands of modern applications.
+                        We assist you in identifying current problems and offering suggestions for enhancements through our thorough testing services. We help you improve your models and systems by pointing out their flaws and potential improvement areas. 
+
+                        provide an exceptional user experience. Join forces with us to make sure your AI solutions are reliable,dependable and prepared to fulfill the requirements of contemporary applications.
                         </span>
                     </h3>
                     <button className="bg-blue-700 text-white px-3 py-2 rounded-md mx-auto">Contact us</button>

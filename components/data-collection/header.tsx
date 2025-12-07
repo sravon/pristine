@@ -16,10 +16,7 @@ export const Header = () => {
                       </h1>
                       <p className="mx-auto text-gray-400 text-sm text-left
                       lg:mt-0 lg:mx-0 sm:max-w-md">
-                      Our company specializes in comprehensive data collection services, focusing on
-                       audio and video data acquisition. These services are essential for training 
-                       advanced artificial intelligence systems, 
-                      enabling machines to serve humanity more intelligently and efficiently.
+                      With a focus on audio and video data capture, our organization offers comprehensive data collection services. These services are crucial for training sophisticated AI systems, which make it possible for machines to assist people more effectively and intelligently.
                       </p>
                   </div>
               </div>

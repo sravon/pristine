@@ -36,9 +36,7 @@ export const Annotation = () => {
                 <div className="text-center">
                     <h2 className="font-sans text-xl text-white font-bold md:text-2xl ">Data testing:</h2>
                     <h2 className="max-w-xl mx-auto font-sans text-xs text-white font-bold">
-                    We offer high-quality audio data collection services, capturing diverse 
-                    speech patterns, accents,
-                        and dialects from various demographics. Our services include
+                    We provide top-notch audio data collection services that record a range of dialects, accents, and speech patterns from different groups. Among the services we offer are
                     </h2>
                 </div>
                 <div className="grid md:grid-cols-3 gap-4 text-white bg-[#2A3D95]">
@@ -64,11 +62,7 @@ export const Annotation = () => {
                 <div className="max-w-5xl space-y-3 flex flex-col items-center p-5">
                     <h3 className="font-sans font-extrabold text-xs md:text-lg text-center">
                         <span className='bg-clip-text text-transparent bg-gradient-to-r from-[#E9BA5F] to-[#B588FF]'>
-                        Through our comprehensive testing services, we help you uncover existing issues
-                         and provide recommendations for improvement. By identifying weaknesses
-                          and areas for enhancement, we assist you in refining your models and systems to 
-                          deliver a superior user experience. Partner with us to ensure your AI solutions are robust,
-                         reliable, and ready to meet the demands of modern applications.
+                        We assist you in identifying current problems and offering suggestions for enhancements through our thorough testing services. We help you improve your models and systems to provide a better user experience by pointing out flaws and potential improvement areas. Join together with us to make sure your AI solutions are strong, dependable, and prepared to handle the demands of contemporary applications.
                         </span>
                     </h3>
                     <button className="bg-blue-700 text-white px-3 py-2 rounded-md mx-auto">Contact us</button>
